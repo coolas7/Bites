@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'Kavivanar';
+	/*src: url('fonts/lovely_font.eot'); */
+	src: 
+		local('Kavivanar Regular'),
+		local('Kavivanar-Regular'),
+		url('../fonts/Kavivanar-Regular.ttf') 
+		format('truetype');
+}
+
+@font-face {
+	font-family: 'ProzaLibre';
+	/*src: url('fonts/lovely_font.eot'); */
+	src: 
+		local('ProzaLibre Regular'),
+		local('ProzaLibre-Regular'),
+		url('../fonts/ProzaLibre-Regular.ttf') 
+		format('truetype');
+}
+/*bold */
+@font-face {
+	font-family: 'ProzaLibre';
+	/*src: url('fonts/lovely_font_bold.eot');*/ 
+	src: 
+		local('ProzaLibre Bold'),
+		local('ProzaLibre-Bold'),
+		url('../fonts/ProzaLibre-Bold.ttf') 
+		format('truetype');
+	font-weight: bold;
+}
+
+/* italic */
+@font-face {
+	font-family: 'ProzaLibre';
+	/*src: url('fonts/lovely_font_bold.eot');*/ 
+	src: 
+		local('ProzaLibre Italic'),
+		local('ProzaLibre-italic'),
+		url('../fonts/ProzaLibre-italic.ttf') 
+		format('truetype');
+	font-weight: italic;
+}
+@font-face {
+	font-family: 'ProzaLibre';
+	/*src: url('fonts/lovely_font_bold.eot');*/ 
+	src: 
+		local('ProzaLibre BoldItalic'),
+		local('ProzaLibre-BoldItalic'),
+		url('../fonts/ProzaLibre-BoldItalic.ttf') 
+		format('truetype');
+	font-weight: bold-italic;
+}
+@font-face {
+	font-family: 'ProzaLibre';
+	/*src: url('fonts/lovely_font_bold.eot');*/ 
+	src: 
+		local('ProzaLibre Medium'),
+		local('ProzaLibre-Medium'),
+		url('../fonts/ProzaLibre-Medium.ttf') 
+		format('truetype');
+	font-weight: medium;
+}
