@@ -1,2 +1,2 @@
 # Bites
-WordPress svetainė
+WordPress svetainė - pirmas blynas.
